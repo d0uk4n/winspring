@@ -1,12 +1,9 @@
-# winspring
-Windows blue screen respring theme
+#Windows Respring Theme
 
-# Install
+#Install
 
-1.Download Filza File Manager, Snowboard & SnowboardRespringExtension Tweaks using your package manager.
+If you are using a Rootless Jailbreak, download the arm64 deb file, if you are using a Rootfull Jailbreak, download the arm deb file, and install it using your Package manager.
 
-2.Download winspring.zip & unzip.
+Install the Snowboard tweak and the Snowboard Respring Extension tweak as an extra for it to work.
 
-3.Copy the extracted file to /var/jb/Library/Themes (/var/Library/Themes for rootfull jailbreak) folder.
-
-4.Enter the settings of Snowboard Tweak using Settings App and apply winspring from the Choose Theme section.
+Find the Snowboard in the settings section and activate winspring and then respring. ;)
